@@ -1,6 +1,4 @@
 - 👋 Hi, I’m Pavan Kalyan Mahanty
 - 👀 I’m interested in Networking , Web Development & Designing , Payments flows , UI designs ,Competetive Programming , Os , Deployments.
-- 🌱 I’m currently learning Payment flows,Payments Message Types(IS02002,MT,XML) ,Volpay integrated with SABB,SAIB,Evolve,SSB.
 - 💞️ I’m looking to collaborate on Knowlege Transfer of interesting kind.
 - 📫 How to reach me [click this](https://pavan-links.netlify.app/?fbclid=PAAaYzo567gDsSW6ONzPbm8zlssKbfgPmIWuZvxk4FeSPFk6yAmfYpaNbEEnk)
--  🌱 I’m currently working in [Volante Technologies](https://www.volantetech.com/)
